@@ -1,0 +1,28 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.tarjeta{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: justify;
+    position: absolute;
+  
+    
+}
+.personaje{
+    display: flex;
+    background-color: antiquewhite;
+    width: 400px;
+    height: 200px;
+    margin: 2%;
+    
+    font-size: 14px;
+    
+    
+}
+.personaje img{
+    width: 250px;
+    height: 200px;
+}
